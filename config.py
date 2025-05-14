@@ -1,11 +1,11 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
-    BOT_TOKEN = "0:0-0"
-    BOT_NAME = "Your_Bot_Name"
-    BOT_USERNAME = "Your_Bot_Username"
+    API_ID = 28938499
+    API_HASH = "5fbfbdb670be6ac9ce68ed8643033c16"
+    BOT_TOKEN = "8011212825:AAFbQ_hbOuNdtyfGDx-WX3ggG6aywilHv5M"
+    BOT_NAME = "Naruto"
+    BOT_USERNAME = "Narrutto_bot"
     BOT_ID = 0
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
@@ -19,20 +19,20 @@ class config:
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    OWNER_ID = 6020886539
+    OWNER_USERNAME = "@offline_hu"
+    SUPPORT_CHAT = -1002273742602
+    SUPPORT_CHAT_USERNAME = "@Gamingg_Arenna"
+    SUPPORT_CHAT_LINK = "https://t.me/Gamingg_Arenna"
+    LOG_CHANNEL = -1002689253330
+    ERROR_LOG_CHANNEL = -1002689253330
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://files.catbox.moe/d69tm0.jpg"
-    START_IMG_URL = "https://files.catbox.moe/wybrme.jpg"
-    HELP_IMG_URL = "https://files.catbox.moe/j3tdbi.jpg"
-    ALIVE_IMG_URL = "https://files.catbox.moe/w4t9cj.jpg"
+    STATS_IMG_URL = "https://graph.org/file/6808e67a3d7267be72c56-8370f6510b6dfd10d5.jpg"
+    START_IMG_URL = "https://graph.org/file/6808e67a3d7267be72c56-8370f6510b6dfd10d5.jpg"
+    HELP_IMG_URL = "https://graph.org/file/6808e67a3d7267be72c56-8370f6510b6dfd10d5.jpg"
+    ALIVE_IMG_URL = "https://graph.org/file/6808e67a3d7267be72c56-8370f6510b6dfd10d5.jpg"
     
     
     #Database
